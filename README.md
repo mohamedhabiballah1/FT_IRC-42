@@ -3,8 +3,8 @@ Welcome to the IRC Server Implementation project! This repository contains the s
 
 Key Features:
 
-Scalable and Extendable: Designed with modularity in mind, making it easy to add new features or customize existing ones.
-User Authentication: Supports basic user authentication to control access to the server.
-Multi-Channel Support: Users can join and participate in multiple channels simultaneously.
-Command Parsing: Implements essential IRC commands for communication and interaction.
-Non-blocking I/O: Utilizes non-blocking sockets for efficient handling of multiple client connections.
+# Scalable and Extendable: Designed with modularity in mind, making it easy to add new features or customize existing ones.
+# User Authentication: Supports basic user authentication to control access to the server.
+# Multi-Channel Support: Users can join and participate in multiple channels simultaneously.
+# Command Parsing: Implements essential IRC commands for communication and interaction.
+# Non-blocking I/O: Utilizes non-blocking sockets for efficient handling of multiple client connections.
